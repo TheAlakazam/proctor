@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.nav-bar {
+  background-color: grey;
+  position: fixed;
+}
+
+.min-100 {
+  min-height: 75vh;
+}
+
+.button-2ch {
+  width: 5ch;
+}
+
+.table-wrapper {
+  max-height: 500px;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  display:inline-block;
+  width: 100%;
+}
